@@ -1,4 +1,4 @@
-# Software Requirements
+# Software Requirements: Keelen Fisher, Xavier Hillman, Adrian Butler
 
 ## What is the vision of this product?
 
