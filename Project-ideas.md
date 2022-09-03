@@ -15,6 +15,7 @@ Allows developers to practice their coding skills.
 Users can see a generated list of random code challenges grabbed from a code - API, this API allows user to run their code
 Users can choose which code that they would like to work on, save their choice (favorites Icon), and delete their previous saves. Users can have a stats profile with a summary of their accomplisment: “insert name ” Has completed “insert number of” challenges
 Users can also delete their currently saved challenges.
+At least have the user be able to receive a pass or test.
 
 ## Project Idea 2: Condensed Topic Search
 
